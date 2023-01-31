@@ -32,10 +32,12 @@
 
 ### Lily:
 
-[] BIRD配置自動下发
-[] RPGMAKER MV CLOUD SAVE
-[] Lily的(已編輯)
+- [ ] BIRD配置自動下发
+
+- [ ] RPGMAKER MV CLOUD SAVE
+
+- [ ] Lily的(已編輯)
 
 ### Christine
 
-[] Prepare-for-Playing
+- [ ] Prepare-for-Playing
