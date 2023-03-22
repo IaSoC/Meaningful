@@ -34,9 +34,13 @@
 
 - [ ] BIRD配置自動下发
 
-~~- [ ] RPGMAKER MV CLOUD SAVE~~
+- [x] RPGMAKER MV CLOUD SAVE
 
 - [ ] Lily的(已編輯)
+
+- [x] DN42 Kioubit IPv6 Canvas drawer 
+
+- [x] LOA Generator(Private)
 
 ### Christine
 
