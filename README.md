@@ -34,7 +34,7 @@
 
 - [ ] BIRD配置自動下发
 
-- [ ] RPGMAKER MV CLOUD SAVE
+~~- [ ] RPGMAKER MV CLOUD SAVE~~
 
 - [ ] Lily的(已編輯)
 
